@@ -1,0 +1,18 @@
+# Data — do NOT commit the dataset (too large; download instructions in data/README.md)
+data/*.csv
+data/*.zip
+
+# Python
+__pycache__/
+*.py[cod]
+*.pkl
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
